@@ -1,0 +1,16 @@
+p {
+  font-family: Lato;
+}
+
+.red{
+  color: red;
+}
+
+.green{
+  color: green;
+}
+
+#paragraph{
+  max-height: 200px;
+  overflow-y: scroll;
+}
